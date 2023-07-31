@@ -1,0 +1,53 @@
+.main-data{
+   background-color: aqua;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    height: 90vh;
+    width: 100%;
+   
+    
+}
+
+.main-data h1{
+    color: rgb(87, 87, 226);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+    position: absolute;
+}
+.logo{
+    position: absolute;
+    margin-top: 50px;
+    background-color: rgb(87, 87, 226);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: -3px;
+}
+
+.education p{
+    position: absolute;
+   margin-top: 40px;
+    margin-left: 60px;
+    color:  rgb(87, 87, 226);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.main-data h2{
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 60px;
+    font-size: 40px;
+
+}
+
+.main-data h4{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 60px;
+}

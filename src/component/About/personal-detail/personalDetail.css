@@ -1,0 +1,14 @@
+.mainclass{
+    display: flex;
+    margin-top: -55px;
+}
+
+
+
+.links{
+    flex-grow: 1;
+}
+.data{
+    flex-grow: 3;
+
+}
